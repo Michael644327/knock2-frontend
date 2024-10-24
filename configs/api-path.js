@@ -1,6 +1,6 @@
 //正式時不進版本控制，依操作電腦狀況決定內容
 // export const API_SERVER = 'http://localhost:3001'
-export const API_SERVER = 'https://knock2-backend.vercel.app/'
+export const API_SERVER = 'https://knock2-backend.vercel.app'
 //↑後端的ip port
 
 // users
